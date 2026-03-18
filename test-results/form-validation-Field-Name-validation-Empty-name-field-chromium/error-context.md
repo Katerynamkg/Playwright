@@ -28,17 +28,17 @@
           - iframe [ref=e46]:
             - generic "YouTube Video Player" [ref=f1e3]:
               - generic [ref=f1e5]:
-                - link "Photo image of Hillel IT School" [ref=f1e7] [cursor=pointer]:
+                - link "Photo image of Hillel IT School" [ref=f1e8] [cursor=pointer]:
                   - /url: https://www.youtube.com/channel/UCIyfaiKil5oomY64XIRJEAA?embeds_referring_euri=https%3A%2F%2Fqauto.forstudy.space%2F
-                - link "Як потрапити у майбутнє? Трансформація навчання." [ref=f1e10] [cursor=pointer]:
+                - link "Як потрапити у майбутнє? Трансформація навчання." [ref=f1e11] [cursor=pointer]:
                   - /url: https://www.youtube.com/watch?v=znjjC0Iw8Wc
-                - button "Share" [ref=f1e12] [cursor=pointer]:
-                  - generic [ref=f1e13]:
+                - button "Share" [ref=f1e13] [cursor=pointer]:
+                  - generic [ref=f1e14]:
                     - img
-                  - generic [ref=f1e14]: Share
-              - button "Play" [ref=f1e17] [cursor=pointer]:
+                  - generic [ref=f1e15]: Share
+              - button "Play" [ref=f1e18] [cursor=pointer]:
                 - img
-              - link "Watch on www.youtube.com" [ref=f1e18] [cursor=pointer]:
+              - link "Watch on www.youtube.com" [ref=f1e19] [cursor=pointer]:
                 - /url: https://www.youtube.com/watch?v=znjjC0Iw8Wc
                 - img
         - generic [ref=e49]:
