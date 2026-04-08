@@ -1,5 +1,6 @@
 
 # Playwright
+playwright-report/trace
 node_modules/
 /test-results/
 /playwright-report/

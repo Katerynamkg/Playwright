@@ -7,7 +7,6 @@ import EditCarForm from "../pom/forms/EditCarForm";
 
 
 test.describe('Garage page', ()=>{
-    test.use({ storageState: './test-data/states/auth-state.json' });
 
     test('Add car', async ({userGaragePage})=>{
         const form = await userGaragePage.openAddCarForm();
