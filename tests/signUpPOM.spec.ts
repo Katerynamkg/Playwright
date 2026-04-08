@@ -1,7 +1,7 @@
 import { Locator, test, expect } from "@playwright/test";
 import HomePage from "../pom/pages/HomePage";
 import SignUpForm from "../pom/forms/SignUpForm";
-require('dotenv').config();
+import 'dotenv/config';
 
 test.describe("Sign Up form", () => {
   let homePage: HomePage;
